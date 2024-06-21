@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="My first commit on 6th june">
+    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="Sayan Koley 21-06-2024">
+      <change afterPath="$PROJECT_DIR$/.idea/Java_Practice1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism_Practice/Polymorphism_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_reversed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_reversed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="21-06-2024" />
     <MESSAGE value="My first commit on 6th june" />
-    <option name="LAST_COMMIT_MESSAGE" value="My first commit on 6th june" />
+    <MESSAGE value="Sayan Koley 21-06-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sayan Koley 21-06-2024" />
   </component>
 </project>
