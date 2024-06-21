@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="My first commit on 6th june" />
+    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="My first commit on 6th june">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_reversed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_reversed.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +40,9 @@
     &quot;accountId&quot;: &quot;77d2d2ca-0e0e-4af6-af52-0706be0f5386&quot;
   }
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -45,26 +51,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array_2.executor": "Run",
-    "Application.Array_2D.executor": "Run",
-    "Application.Array_3.executor": "Run",
-    "Application.Array_4.executor": "Run",
-    "Application.Fizz.executor": "Run",
-    "Application.Interface_1.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.StringBuilder.executor": "Run",
-    "Application.String_1.executor": "Run",
-    "Application.String_2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/New folder (2)/Java/src/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fizz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/New folder (2)/Java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ReverseString">
     <configuration name="Array_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array_2D" />
@@ -154,16 +160,5 @@
     <MESSAGE value="21-06-2024" />
     <MESSAGE value="My first commit on 6th june" />
     <option name="LAST_COMMIT_MESSAGE" value="My first commit on 6th june" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

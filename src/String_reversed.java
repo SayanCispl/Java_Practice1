@@ -14,6 +14,7 @@ public class String_reversed {
         }
         System.out.println("Original String: " + Original);
         System.out.println("Reversed String: " + Reversed);
+        System.out.println("Reversed + Original =" + Reversed + Original);
 
     }
 }
