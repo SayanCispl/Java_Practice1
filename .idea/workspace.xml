@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="Sayan Koley 03-07-2024">
+    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="Sayan Koley 12-07-2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_reversed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_reversed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fizz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fizz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Linkedlist/Linkedlist_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linkedlist/Linkedlist_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
     &quot;Application.Inheritance_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Interface_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Interface_Practice_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Linkedlist_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Polymorphism_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
     &quot;Application.StringBuilder.executor&quot;: &quot;Run&quot;,
@@ -78,7 +80,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Linkedlist_1">
+  <component name="RunManager" selected="Application.Fizz">
     <configuration name="Abstract_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Abstraction_Practice.Abstract_1" />
       <module name="Java_Practice1" />
@@ -98,6 +100,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.Encapsulation_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fizz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Fizz" />
+      <module name="Java_Practice1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,26 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constructor_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Constructor.constructor_1" />
-      <module name="Java_Practice1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fizz" />
         <item itemvalue="Application.Linkedlist_1" />
         <item itemvalue="Application.Inheritance_1" />
         <item itemvalue="Application.Encapsulation_1" />
         <item itemvalue="Application.Abstract_1" />
-        <item itemvalue="Application.constructor_1" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +229,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719998904382</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Sayan Koley 12-07-2024">
+      <option name="closed" value="true" />
+      <created>1720769939662</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720769939662</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Sayan Koley 12-07-2024">
+      <option name="closed" value="true" />
+      <created>1720769959380</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720769959380</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +266,7 @@
     <MESSAGE value="Sayan Koley 21-06-2024, 18:08 PM" />
     <MESSAGE value="Sayan Koley 25-06-2024" />
     <MESSAGE value="Sayan Koley 03-07-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sayan Koley 03-07-2024" />
+    <MESSAGE value="Sayan Koley 12-07-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sayan Koley 12-07-2024" />
   </component>
 </project>

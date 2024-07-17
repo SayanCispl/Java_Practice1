@@ -13,6 +13,5 @@ public class Linkedlist_1 {
         list.add("four");
         System.out.println(list);
 
-
     }
 }

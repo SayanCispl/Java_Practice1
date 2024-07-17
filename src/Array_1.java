@@ -1,10 +1,12 @@
+package src;
+
 import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.Scanner;
 
 public class Array_1 {
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+
         Scanner sc = new Scanner(System.in);
         int [] arr = new int[4];
         arr[0]= 22;
