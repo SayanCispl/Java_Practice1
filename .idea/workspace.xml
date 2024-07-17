@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="Sayan Koley 12-07-2024">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fizz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fizz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Linkedlist/Linkedlist_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linkedlist/Linkedlist_1.java" afterDir="false" />
+    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="Sayan Koley 17-07-2024">
+      <change beforePath="$PROJECT_DIR$/src/Array_2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_2D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +77,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Fizz">
-    <configuration name="Abstract_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Abstraction_Practice.Abstract_1" />
+  <component name="RunManager" selected="Application.Array_3">
+    <configuration name="Array_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Array_3" />
       <module name="Java_Practice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Abstraction_Practice.*" />
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_3" />
         <item itemvalue="Application.Fizz" />
         <item itemvalue="Application.Linkedlist_1" />
         <item itemvalue="Application.Inheritance_1" />
         <item itemvalue="Application.Encapsulation_1" />
-        <item itemvalue="Application.Abstract_1" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720769959380</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Sayan Koley 17-07-2024">
+      <option name="closed" value="true" />
+      <created>1721215269906</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721215269906</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +272,7 @@
     <MESSAGE value="Sayan Koley 25-06-2024" />
     <MESSAGE value="Sayan Koley 03-07-2024" />
     <MESSAGE value="Sayan Koley 12-07-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sayan Koley 12-07-2024" />
+    <MESSAGE value="Sayan Koley 17-07-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sayan Koley 17-07-2024" />
   </component>
 </project>

@@ -1,3 +1,5 @@
+package src;
+
 public class Array_2D
 {
     public static void main(String[] args)
@@ -7,8 +9,6 @@ public class Array_2D
         marks[1]= 30;
         marks[2]= 40;
         System.out.println(marks[1]);
-
-
 
     }
 }
