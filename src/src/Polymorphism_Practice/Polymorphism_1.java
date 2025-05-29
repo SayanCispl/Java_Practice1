@@ -1,6 +1,7 @@
 package src.Polymorphism_Practice;
 
 public class Polymorphism_1 {
+	
     public int Polymorphism_1(int x, int y)
     {
         return (x + y);

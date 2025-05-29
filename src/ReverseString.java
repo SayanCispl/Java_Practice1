@@ -1,4 +1,7 @@
+package src;
+
 public class ReverseString {
+
     public static void main(String[] args) {
         String input = "Geeks for Geeks";
 
