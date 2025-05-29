@@ -1,3 +1,5 @@
+package src;
+
 interface Bank
 {
     void deposit();

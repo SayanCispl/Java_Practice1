@@ -1,3 +1,5 @@
+package src;
+
 public class String_reversed {
     public static void main(String[] args) {
         String Original = "Test";
