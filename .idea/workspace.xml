@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="Arka.Mondal New Update 2 05-29-2025">
-      <change afterPath="$PROJECT_DIR$/src/ConstructorChainingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Child_in.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Parent_in.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Geeks_Multithread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Multithread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/TestThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Thread_lifecycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/world.java" afterDir="false" />
+    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="Arka.Mondal New Update 3 Jun13-2025">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/removeCharFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/removeCharFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Polymorphism_Practice/Polymorphism_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism_Practice/Polymorphism_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748528935868</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Arka.Mondal New Update 3 Jun13-2025">
+      <option name="closed" value="true" />
+      <created>1749759613468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749759613468</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +230,8 @@
     <MESSAGE value="Sayan Koley 21-06-2024" />
     <MESSAGE value="Arka.Mondal New Update 05-29-2025" />
     <MESSAGE value="Arka.Mondal New Update 2 05-29-2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arka.Mondal New Update 2 05-29-2025" />
+    <MESSAGE value="Arka.Mondal New Update 3 Jun13-2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arka.Mondal New Update 3 Jun13-2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
