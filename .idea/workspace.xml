@@ -4,32 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="Arka Mondal 06-21-2024">
-      <change afterPath="$PROJECT_DIR$/src/String/removeCharFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fcfd271b-16e3-42b3-9ece-9074cea5818c" name="Changes" comment="Arka.Mondal New Update 2 05-29-2025">
+      <change afterPath="$PROJECT_DIR$/src/ConstructorChainingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Child_in.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Parent_in.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Geeks_Multithread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Multithread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Thread_lifecycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/world.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Array_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Array_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Array_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Array_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Array_2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Array_2D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Array_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Array_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Array_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Array_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Bank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Dev1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Dev1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Dev2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Dev2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Dev3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Dev3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Fizz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Fizz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Interface_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Interface_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/String_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/String_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/String_reversed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/String_reversed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array_2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fizz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fizz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism_Practice/Polymorphism_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Polymorphism_Practice/Polymorphism_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/removeCharFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/removeCharFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Polymorphism_Practice/Polymorphism_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism_Practice/Polymorphism_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,8 +46,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SayanCispl/Java_Practice1&quot;,
-    &quot;accountId&quot;: &quot;77d2d2ca-0e0e-4af6-af52-0706be0f5386&quot;
+    &quot;url&quot;: &quot;https://github.com/SayanCispl/Java_Practice1.git&quot;,
+    &quot;accountId&quot;: &quot;dbf229e1-faf9-4304-b357-c1b933856850&quot;
   }
 }</component>
   <component name="MarkdownSettingsMigration">
@@ -80,34 +67,41 @@
     "Application.Array_2D.executor": "Run",
     "Application.Array_3.executor": "Run",
     "Application.Array_4.executor": "Run",
+    "Application.ConstructorChainingExample.executor": "Debug",
     "Application.Fizz.executor": "Run",
+    "Application.Geeks.executor": "Run",
+    "Application.Geeks_Multithread.executor": "Run",
     "Application.Interface_1.executor": "Run",
+    "Application.Multithread.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.StringBuilder.executor": "Run",
     "Application.String_1.executor": "Run",
     "Application.String_2.executor": "Run",
+    "Application.TestThread.executor": "Run",
+    "Application.Thread_lifecycle.executor": "Run",
     "Application.removeCharFromString.executor": "Run",
     "Application.reverseWord.executor": "Debug",
+    "Application.run.executor": "Run",
     "Application.src.ReverseString.executor": "Run",
     "Application.stringCompared.executor": "Run",
     "Application.wordReverse.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Arka__Code",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/CODECLOUDS-ARKA/OneDrive/C_Drive_Backup/Intlej_IdeaProjects_list/Java_Practice1",
     "onboarding.tips.debug.path": "D:/New folder (2)/Java/src/Main.java",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.removeCharFromString">
-    <configuration name="removeCharFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.String.removeCharFromString" />
+  <component name="RunManager" selected="Application.run">
+    <configuration name="Geeks_Multithread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Multithreading.Geeks_Multithread" />
       <module name="Java_Practice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.String.*" />
+          <option name="PATTERN" value="src.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.String.reverseWord" />
+    <configuration name="Multithread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Multithreading.Multithread" />
       <module name="Java_Practice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.String.*" />
+          <option name="PATTERN" value="src.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="src.ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ReverseString" />
+    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Multithreading.TestThread" />
       <module name="Java_Practice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.*" />
+          <option name="PATTERN" value="src.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringCompared" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.String.stringCompared" />
+    <configuration name="Thread_lifecycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Multithreading.Thread_lifecycle" />
       <module name="Java_Practice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.String.*" />
+          <option name="PATTERN" value="src.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wordReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.String.wordReverse" />
+    <configuration name="run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Inheritance.run" />
       <module name="Java_Practice1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.String.*" />
+          <option name="PATTERN" value="src.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.removeCharFromString" />
-        <item itemvalue="Application.reverseWord" />
-        <item itemvalue="Application.wordReverse" />
-        <item itemvalue="Application.stringCompared" />
-        <item itemvalue="Application.src.ReverseString" />
+        <item itemvalue="Application.run" />
+        <item itemvalue="Application.Thread_lifecycle" />
+        <item itemvalue="Application.TestThread" />
+        <item itemvalue="Application.Multithread" />
+        <item itemvalue="Application.Geeks_Multithread" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718956136129</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Arka.Mondal New Update 05-29-2025">
+      <option name="closed" value="true" />
+      <created>1748528771608</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748528771608</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Arka.Mondal New Update 2 05-29-2025">
+      <option name="closed" value="true" />
+      <created>1748528935868</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748528935868</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,7 +230,9 @@
     <MESSAGE value="21-06-2024" />
     <MESSAGE value="My first commit on 6th june" />
     <MESSAGE value="Sayan Koley 21-06-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sayan Koley 21-06-2024" />
+    <MESSAGE value="Arka.Mondal New Update 05-29-2025" />
+    <MESSAGE value="Arka.Mondal New Update 2 05-29-2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arka.Mondal New Update 2 05-29-2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -239,6 +251,11 @@
           <url>file://$PROJECT_DIR$/src/String/reverseWord.java</url>
           <line>9</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConstructorChainingExample.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
