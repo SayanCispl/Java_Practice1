@@ -1,4 +1,4 @@
-package src;
+package src.Array;
 
 public class Array_4
 {
